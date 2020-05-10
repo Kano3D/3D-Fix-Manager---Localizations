@@ -5,51 +5,51 @@
 
     <!-- Display Profiles Window Bar -->
     <system:String x:Key="Monitor">Monitor</system:String>
-    <system:String x:Key="Projector">Projector</system:String>
+    <system:String x:Key="Projector">Proyector</system:String>
     <system:String x:Key="TV">TV</system:String>
 
     <!-- Misc -->
-    <system:String x:Key="LoadingApplication">Loading Application. Please wait...</system:String>
-    <system:String x:Key="SwitchToCompactGui">Switch to compact gui size.</system:String>
-    <system:String x:Key="SwitchToNormalGui">Switch to normal gui size.</system:String>
-    <system:String x:Key="MinimizeToTray">Minimize window to system tray.</system:String>
-    <system:String x:Key="ChangeLanguage">Change Language</system:String>
-    <system:String x:Key="Close">Close</system:String>
+    <system:String x:Key="LoadingApplication">Cargando programa. Por favor, espere...</system:String>
+    <system:String x:Key="SwitchToCompactGui">Cambiar a interfaz compacta.</system:String>
+    <system:String x:Key="SwitchToNormalGui">Cambiar a interfaz por defecto.</system:String>
+    <system:String x:Key="MinimizeToTray">Minimizar ventana a la bandeja del sistema.</system:String>
+    <system:String x:Key="ChangeLanguage">Cambiar idioma</system:String>
+    <system:String x:Key="Close">Cerrar</system:String>
     
-    <system:String x:Key="Show">Show</system:String>
-    <system:String x:Key="NoMatchFound">No Match found for</system:String>
+    <system:String x:Key="Show">Mostrar</system:String>
+    <system:String x:Key="NoMatchFound">No se ha encontrado coincidencia para</system:String>
 
     <!-- Tab header title -->
-    <system:String x:Key="Installation">Installation</system:String>
-    <system:String x:Key="Play">Play</system:String>
-    <system:String x:Key="EditProfile">Edit Profile</system:String>
-    <system:String x:Key="NewProfile">New Profile</system:String>
-    <system:String x:Key="Hotkeys">Hotkeys</system:String>
-    <system:String x:Key="3dfix">3D Fix</system:String>
-    <system:String x:Key="Profile">Profile</system:String>
-    <system:String x:Key="Settings">Settings</system:String>
-    <system:String x:Key="About">About</system:String>
-    <system:String x:Key="GeneralSettings">Application Settings</system:String>
-    <system:String x:Key="Nvidia3DSettings">Nvidia 3D Settings</system:String>
-    <system:String x:Key="DisplayProfiles">Display Profiles</system:String>
+    <system:String x:Key="Installation">Instalación</system:String>
+    <system:String x:Key="Play">Iniciar</system:String>
+    <system:String x:Key="EditProfile">Editar Perfil</system:String>
+    <system:String x:Key="NewProfile">Nuevo Perfil</system:String>
+    <system:String x:Key="Hotkeys">Teclas de acceso directo</system:String>
+    <system:String x:Key="3dfix">Parche 3D</system:String>
+    <system:String x:Key="Profile">Perfil</system:String>
+    <system:String x:Key="Settings">Ajustes</system:String>
+    <system:String x:Key="About">Acerda de</system:String>
+    <system:String x:Key="GeneralSettings">Ajustes de la aplicación</system:String>
+    <system:String x:Key="Nvidia3DSettings">Ajustes de Nvidia 3D</system:String>
+    <system:String x:Key="DisplayProfiles">Perfiles de pantalla</system:String>
 
     <!-- Game list on left column-->
-    <system:String x:Key="All">All Games</system:String>
-    <system:String x:Key="Installed">Installed Games</system:String>
-    <system:String x:Key="AllFixTypes">All Fix Types</system:String>
+    <system:String x:Key="All">Juegos soportados</system:String>
+    <system:String x:Key="Installed">Juegos instalados</system:String>
+    <system:String x:Key="AllFixTypes">Todos los tipos de parche</system:String>
     <system:String x:Key="_3dmigoto">3dmigoto (DX 11)</system:String>
     <system:String x:Key="Helixmod">Helixmod (DX 9)</system:String>
     <system:String x:Key="OpenGLwrapper">OpenGL Wrapper</system:String>
-    <system:String x:Key="NotFixed">Without 3D Fix</system:String>
-    <system:String x:Key="VerifiedFixes">Verified 3D Fixes</system:String>
-    <system:String x:Key="UnverifiedFixes">Unverified 3D Fixes</system:String>
-    <system:String x:Key="VrCompatible">VR compatible</system:String>
-    <system:String x:Key="New">New</system:String>
-    <system:String x:Key="CreateProfileToolTip">Create Fix Profile</system:String>
-    <system:String x:Key="Edit">Edit</system:String>
-    <system:String x:Key="EditProfileToolTip">Edit Fix Profile</system:String>
-    <system:String x:Key="Delete">Delete</system:String>
-    <system:String x:Key="DeleteProfileToolTip">Remove Fix Profile</system:String>
+    <system:String x:Key="NotFixed">Sin parche 3D</system:String>
+    <system:String x:Key="VerifiedFixes">Parches verificados</system:String>
+    <system:String x:Key="UnverifiedFixes">Parches sin verificar</system:String>
+    <system:String x:Key="VrCompatible">Compatible con RV</system:String>
+    <system:String x:Key="New">Nuevo</system:String>
+    <system:String x:Key="CreateProfileToolTip">Crear perfil de Parche</system:String>
+    <system:String x:Key="Edit">Editar</system:String>
+    <system:String x:Key="EditProfileToolTip">Editar perfil de Parche</system:String>
+    <system:String x:Key="Delete">Borrar</system:String>
+    <system:String x:Key="DeleteProfileToolTip">Quitar perfil de Parche</system:String>
 
     <!-- Installation Tab -->
     <system:String x:Key="NoGamesInstalled">No compatible games installed.</system:String>
